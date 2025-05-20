@@ -20,5 +20,10 @@ A landing page é composta por:
 - **Google Fonts** – Fontes personalizadas (*Inter* e *Raleway*)  
 - **SheetMonkey** – Integração do formulário com planilha online  
 
+## 🌐 Acesse o Projeto
+
+- 🔗 [Visualizar Landing Page](https://arquiteturalp-desafio01.netlify.app/)
+- 📊 [Ver Planilha de Contatos](https://docs.google.com/spreadsheets/d/1kZVNjzKOS0qcg0hXsg2juDMARDtF1Z5DRJue4gM1zYA/edit?usp=sharing)
+
 
 
